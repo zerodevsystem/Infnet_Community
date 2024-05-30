@@ -1,6 +1,6 @@
 ﻿# Infnet_Community: 
 
-Bem-vindo ao repositório público de notebooks utilizados nas aulas do curso de Ciência de Dados do Instituto Infnet! Este espaço foi criado para compartilhar o conhecimento gerado em sala de aula, promovendo a colaboração e o aprendizado entre alunos e professores. Como sou um entusiasta do software livre e acredito que a colaboração é essencial para o avanço da tecnologia e da ciência. A Ciência de Dados, em particular, se beneficia enormemente da colaboração e do compartilhamento de ideias e recursos. Espero que este repositório possa contribuir para a formação de cientistas de dados mais completos e engajados com a comunidade.
+Bem-vindo ao repositório público de notebooks utilizados nas aulas do curso de Ciência de Dados do Instituto Infnet! Este espaço foi criado para compartilhar o conhecimento gerado em sala de aula, promovendo a colaboração e o aprendizado entre alunos e professores. Como sou um entusiasta do software livre e acredito que a colaboração é essencial para o avanço da tecnologia e da ciência, decidi criar este espaço como forma de contribuir com a disseminação do conhecimento, do aprendizado e, se tiver sorte, com a formação de cientistas de dados mais completos e engajados com a comunidade.
 
 Sobre o Instituto Infnet:
 
@@ -9,10 +9,6 @@ O Instituto Infnet é uma instituição de ensino renomada, com foco em tecnolog
 Sobre o repositório:
 
 Este repositório contém notebooks Jupyter utilizados em diversas disciplinas do curso, abordando temas como análise exploratória de dados, visualização, modelagem preditiva, processamento de linguagem natural e muito mais. Os notebooks são disponibilizados sob a licença GNU GPL v3, permitindo o uso, cópia, modificação e distribuição livremente, desde que a licença seja mantida e os créditos sejam atribuídos aos autores originais.
-
-Minha iniciativa:
-
-Acredito que o compartilhamento de conhecimento é fundamental para o desenvolvimento da comunidade acadêmica e profissional. Por isso, decidi criar este repositório como forma de contribuir com a disseminação da Ciência de Dados e facilitar o aprendizado de todos os interessados.
 
 Responsabilidade do usuário:
 
@@ -41,6 +37,20 @@ Trata-se de um ambiente de nível acadêmico, com recursos modestos, mas suficie
     - Anaconda 3
     - Jupyter-Notebook 7.0.8
     - RStudio Desktop 4.4.0 (kernel disponível no Jupyter)
+
+- Bibliotecas Istaladas?
+
+    - NumPy: Para operações numéricas eficientes.
+    - Pandas: Para manipulação e análise de dados.
+    - Matplotlib: Para visualização de dados.
+    - Scikit-learn: Para algoritmos de aprendizado de máquina.
+    - Jupyter Notebook: Para criar documentos interativos com código, texto e visualizações.
+    - Seaborn: Para visualizações estatísticas mais avançadas.
+    - TensorFlow: Para Deep Learning.
+    - PyTorch: Para Deep Learning.
+    - Statsmodels: Para modelagem estatística.
+    - NLTK: Para processamento de linguagem natural.
+    - XGBoost: Para modelos de boosting.
 
 Conecte-se e colabore!
 Sinta-se à vontade para explorar os notebooks, fazer perguntas, sugerir melhorias e compartilhar seus próprios projetos. Juntos, podemos construir um ambiente de aprendizado mais rico e colaborativo!
