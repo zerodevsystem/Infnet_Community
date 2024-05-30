@@ -1,0 +1,6 @@
+LINKS PARA NOTEBOOKS NO GOOGLE COLAB
+
+- 01 - Árvores_de_Decisão(https://drive.google.com/file/d/1ZTV8P6Luan1DI5q2cFd2tOaehBuKSukU/view?usp=sharing)
+- 02 - SVM_1(https://drive.google.com/file/d/1ByBjbI632vThd2OB7VF4Cns5ACf92IKf/view?usp=sharing)
+- 02 - SVM_2(https://drive.google.com/file/d/1Qv2hZ4suE508g5NXqdeEf9q5M7_QFOMh/view?usp=sharing)
+- 03 - Ensembles (https://drive.google.com/file/d/17Qpwc6PdDLfe18ZRxqJmb-s-yubDHQMg/view?usp=sharing)
