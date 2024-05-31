@@ -16,14 +16,10 @@ Ao utilizar os notebooks e códigos deste repositório, você se compromete a:
 
 Respeitar a licença GNU GPL v3: Manter a licença e os créditos aos autores originais em todas as cópias ou modificações do material.
 Utilizar o material para fins acadêmicos e de aprendizado: Evitar o uso comercial ou qualquer tipo de uso indevido que possa prejudicar a imagem do Instituto Infnet ou dos autores dos notebooks.
-Não sobrecarregar o ambiente de execução: O ambiente de notebooks é compartilhado e possui recursos limitados. Evite executar processos pesados ou que possam comprometer o desempenho do sistema para outros usuários.
-Monitoramento e política de uso:
 
-Não haverá monitoramento ativo do uso dos notebooks, mas casos de abuso, uso indevido ou violação da licença serão tratados pontualmente. O acesso ao ambiente de notebooks é uma cortesia e pode ser revogado caso haja motivo ou o uso prejudique o desempenho da máquina ou coloque em risco as aplicações em execução.
+O Ambiente:
 
-Ambiente de execução:
-
-Trata-se de um ambiente de nível acadêmico, com recursos modestos, mas suficientes para a execução dos notebooks e projetos do curso.
+O acesso ao ambiente de notebooks em nosso servidor particular é uma cortesia e pode ser revogado caso haja motivo ou o uso prejudique o desempenho da máquina ou coloque em risco as aplicações em execução.Trata-se de um ambiente de nível acadêmico, com recursos modestos, mas suficientes para a execução dos notebooks e projetos do curso.
 
 - Hardware:
     - 2 processadores Xeon E5-2640 v2 (2.00GHz) com 16 Threads cada.
@@ -38,7 +34,7 @@ Trata-se de um ambiente de nível acadêmico, com recursos modestos, mas suficie
     - Jupyter-Notebook 7.0.8
     - RStudio Desktop 4.4.0 (kernel disponível no Jupyter)
 
-- Bibliotecas Istaladas?
+- Bibliotecas Istaladas:
 
     - NumPy: Para operações numéricas eficientes.
     - Pandas: Para manipulação e análise de dados.
@@ -53,4 +49,5 @@ Trata-se de um ambiente de nível acadêmico, com recursos modestos, mas suficie
     - XGBoost: Para modelos de boosting.
 
 Conecte-se e colabore!
-Sinta-se à vontade para explorar os notebooks, fazer perguntas, sugerir melhorias e compartilhar seus próprios projetos. Juntos, podemos construir um ambiente de aprendizado mais rico e colaborativo!
+
+Sinta-se à vontade para explorar os notebooks, fazer perguntas, sugerir melhorias e compartilhar seus próprios projetos. Caso deseje acessar o ambiente entre em contato pelo e-mail [fabiolinharez@gmail.com](#fabiolinharez@gmail.com). Juntos, podemos construir um ambiente de aprendizado mais rico e colaborativo!
